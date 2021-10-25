@@ -1,6 +1,17 @@
+
+I was born with a growth mindset, consuming new knowledge at any opportunity. Learning stress does not stunt my progress, instead it increases my desire to learn it. You can track my knowledge journey within my living [notes](https://github.com/Renrek/notes/blob/master/README.md).
+
+
+
+
+
+<!-- 
+
+I don't know why I kept this seemed like I may want it down the road.
+
 ### Hi there 👋
 
-<!--
+
 **Renrek/Renrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
