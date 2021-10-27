@@ -2,7 +2,7 @@
 
 > _Success is not final; failure is not fatal: It is the courage to continue that counts._ **–W. Churchill**
 
-I was born with a growth mindset, consuming new knowledge at any opportunity. Learning stress does not stunt my progress, instead it increases my desire to learn it. You can track my knowledge journey within my living [notes](https://github.com/Renrek/notes/blob/master/README.md).
+I was born with a growth mindset, consuming new knowledge at any opportunity. Learning stress does not stunt my progress, instead it increases my desire to learn it. You can track my knowledge journey within my living [notes](https://github.com/Renrek/notes/blob/main/README.md).
 
 
 
